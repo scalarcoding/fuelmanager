@@ -1,16 +1,12 @@
-# deepcalc
+# Fuel Manager
 
-A new Flutter project.
+Aplikasi untuk membantu aktivitas pengumpulan data fuel di PT. Pamapersada BRCG
 
-## Getting Started
+## Version History
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# v.1.0.0
+Fungsi yang sudah tersedia : 
+- User management (Signup, login, user approval)
+- Sonding Fuel di maintank PT. Berau Coal >> Full implemented
+- Request Fuel oleh pihak eksternal (Subcont PT. Berau Coal) >> Progress 40%
+- Fuel Filter Usage Recording >> To be implemented
