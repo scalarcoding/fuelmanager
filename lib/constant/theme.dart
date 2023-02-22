@@ -110,3 +110,5 @@ LinearGradient gradientLightBlueWhite = LinearGradient(
   begin: Alignment.topCenter,
   end: Alignment.bottomCenter,
 );
+
+const IconData FingerprintIcon = IconData(0xe287, fontFamily: 'MaterialIcons');
